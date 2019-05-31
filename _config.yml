@@ -1,11 +1,11 @@
 # Site settings
 author: Brian Salemi
-title: 
+title: My Humble Acode
 header-img: img/home-bg.png
 email: briandsalemi@gmail.com
 copyright_name: Brian Salemi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Come in. Stay a while.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BSalemi
