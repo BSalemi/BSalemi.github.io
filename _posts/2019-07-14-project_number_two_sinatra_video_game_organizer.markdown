@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project Number Two: Sinatra Video Game Organizer"
-date:       2019-07-15 01:07:24 +0000
+date:       2019-07-14 21:07:25 -0400
 permalink:  project_number_two_sinatra_video_game_organizer
 ---
 
