@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Metaprogramming and Macros "
-date:       2019-08-04 23:48:58 +0000
+date:       2019-08-04 19:48:58 -0400
 permalink:  metaprogramming_and_macros
 ---
 
