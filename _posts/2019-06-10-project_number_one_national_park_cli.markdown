@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project Number One: National Park CLI"
-date:       2019-06-10 04:43:47 +0000
+date:       2019-06-10 00:43:48 -0400
 permalink:  project_number_one_national_park_cli
 ---
 
@@ -18,7 +18,8 @@ And boy, *did I*.
 
 At the start of project week I was a mess. I was full of anxiety and self-doubt. Am I really cut out for this? Did I make the right decision signing up for this boot camp? What’s a Ruby? 
 
-![](https://tenor.com/view/emma-stone-panic-scared-ahh-scream-gif-4655603)
+![](https://media.giphy.com/media/P4133zeloooHm/giphy.gif)
+
 A few deep breaths and several video lectures later, I began to feel less overwhelmed by the complexity of my first big coding project.  I reminded myself that it was still early on in my coding journey and my anxiousness regarding the project was normal. I knew that approaching this project systematically was the best approach, so I opened my notebook and began to jot down some ideas. 
 
 ***Step One: Pick a Topic***
@@ -42,16 +43,20 @@ Once I had the core of my project fleshed out, I began to test how it ran. All w
 
 The CLI printed a list of all states and U.S. territories that had national parks, and then prompted the user to enter the abbreviation of the state or territory whose list of parks they would like to see.  Things continued to go off without a hitch, it all seemed too easy.
 
-![](https://giphy.com/gifs/confused-futurama-suspicious-ANbD1CCdA3iI8)
+![](http://giphygifs.s3.amazonaws.com/media/ANbD1CCdA3iI8/giphy.gif)
+
 When it came time to enter a state abbreviation I was ready to see a list of that state’s national parks output back to me, but instead I saw “undefined method `text' for nil:NilClass". My first thought was to immediately panic. What did I do wrong? Why were my variables returning ‘nil’ as a value?  
 
 So I slapped a Pry on the method and line in question and dove into a debugging session. I checked each of my variables against .nil? and they all returned false. What did this mean? How could my variables be both ‘nil’ and not ‘nil’ at the same time?
 
-![](https://giphy.com/gifs/funny-lol-what-FRRK3vMJ4no52)
+![](http://giphygifs.s3.amazonaws.com/media/FRRK3vMJ4no52/giphy.gif)
+
 Luckily before I spiraled (too) out of control, my professor’s office hours began and I was able to troubleshoot the issue with him. Turns out I needed to use a ternary operator to check each variable against .nil? and set it equal to the parsed HTML. 
 
 After that issue was figured out, it was relatively smooth sailing through to the end. A couple of while loops, some minor refactoring, and a handful of tests later; my National Park CLI project was complete and I had officially taken my first real step towards becoming a Programmer. 
-![](https://tenor.com/view/emma-stone-thumbs-up-good-ok-great-gif-4435000 )
+
+![](https://media1.tenor.com/images/967b2c08758615868bb0a67c41a8f6fa/tenor.gif?itemid=4435000 )
+
 
 
 
