@@ -112,5 +112,5 @@ Macros are found throughout Ruby and are often times used to make code more pala
 
 Other common examples of macros include the Active Record associations methods (`has_one`, `has_many`, `belongs_to`, etc.) which each create several methods that express relationships between objects,  as well as the ` resources`  macro in Rails which creates the seven RESTful routes for a controller in an MVC. 
 
-Metaprogramming and macros make our lives as programmers easier by abstracting away any unnecessarry repetition, allowing us to achieve more functionality with fewer lines of code. Although metaprogramming and macros may seem a bit confusing (and at times they are), the benefits we as programmers receive from utilizing them are immeasurable. 
+Metaprogramming and macros make our lives as programmers easier by abstracting away any unnecessary repetition, allowing us to achieve more functionality with fewer lines of code. Although metaprogramming and macros may seem a bit confusing (and at times they are), the benefits we as programmers receive from utilizing them are immeasurable. 
 
