@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Arrow Functions "
-date:       2019-11-24 22:10:51 +0000
+date:       2019-11-24 17:10:52 -0500
 permalink:  arrow_functions
 ---
 
