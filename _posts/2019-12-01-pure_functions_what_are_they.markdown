@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pure Functions: What Are They? "
-date:       2019-12-02 00:09:07 +0000
+date:       2019-12-01 19:09:08 -0500
 permalink:  pure_functions_what_are_they
 ---
 
