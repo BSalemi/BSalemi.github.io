@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How To: A Guide to Outlining and Organizing Applications"
-date:       2019-12-09 02:48:24 +0000
+date:       2019-12-08 21:48:25 -0500
 permalink:  how_to_a_guide_to_outlining_and_organizing_applications
 ---
 
