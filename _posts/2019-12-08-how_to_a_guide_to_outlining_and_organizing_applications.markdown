@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "How To: A Guide to Outlining and Organizing Applications"
+title:      "How To: A Guide to Outlining and Organizing Your Applications"
 date:       2019-12-08 21:48:25 -0500
 permalink:  how_to_a_guide_to_outlining_and_organizing_applications
 ---
@@ -10,7 +10,7 @@ Since graduating from The Flatiron School's Software Engineering program, I've b
 
 One of the biggest changes I made was with how I approached creating a new application. As I have less time to focus solely on building applications, I make the most of my time coding by structuring an outline of my application and completing each step sequentially.
 
-#### 1. Pick an Idea
+**#### 1. Pick an Idea**
 
 The creation of any application always begins with an idea. When brainstorming ideas for an application, I ask myself one question: "What problem should my application solve?"
 
@@ -18,7 +18,7 @@ Maybe I need help keeping track of my new schedule. Or maybe I am curious to kno
 
 If you think of your application in terms of solving a problem or filling a need then ideas should come more freely to you. 
 
-#### 2. Make Note of Classes
+**#### 2. Make Note of Classes**
 
 The second step of my application outline is thinking about the different classes or models that I will be using. As models and classes will be the backbone of my application, it's important that I have a clear understanding of the various classes I'll be using before moving forward with the process. 
 
@@ -26,13 +26,13 @@ Also, if my application will be utilizing a database, I use this moment to think
 
 ***Pro Tip: Researching public APIs can help inspire your future applications.***
 
-#### 3. Draw it Out
+**#### 3. Draw it Out**
 
 The final and maybe most important step of my application outline is that I like to plan out the design of my application by drawing them out beforehand. Of course I don't mean for you to draw out every aspect of your future application, instead just draw a few rectangles, on a piece of paper or any sketching app that you have,  to represent the different sections of your application's main page. 
 
 Drawing this rough sketch ahead of time can really facilitate the CSS and styling portion of your new project. It also helps you be mindful of any new features or interactivity that you may want to add, such as a search bar or logout button. 
 
-#### 4. Time to Build
+**#### 4. Time to Build**
 
 With my application outline complete, it's time for me to build! 
 
