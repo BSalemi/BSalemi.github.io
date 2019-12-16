@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Performance Optimization: Minimizing Files"
-date:       2019-12-16 02:03:37 +0000
+date:       2019-12-15 21:03:38 -0500
 permalink:  performance_optimization_minimizing_files
 ---
 
